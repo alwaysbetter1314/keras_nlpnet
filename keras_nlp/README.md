@@ -1,3 +1,4 @@
 # keras_nlp
-1. 加入xlnet，bert等模型
-2. 加入fasttext
+
+## 文本分类
+1. 加入fasttext ，textcnn
